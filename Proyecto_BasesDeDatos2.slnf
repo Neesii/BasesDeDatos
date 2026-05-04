@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "Proyecto_BasesDeDatos\\Proyecto_BasesDeDatos.sln",
+    "projects": [
+      "Proyecto_BasesDeDatos\\Proyecto_BasesDeDatos.csproj"
+    ]
+  }
+}
